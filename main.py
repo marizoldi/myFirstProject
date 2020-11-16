@@ -3,6 +3,8 @@ colours = ["red", "orange", "blue", "yellow"]
 mixed_literals = ["yellow", 34, 67.9]
 numbers.append(678)
 
+myDict = {"name": "marta", "Age": 3}
+
 
 
 
